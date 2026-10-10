@@ -1,5 +1,6 @@
 <div align="center">
     <h1>冒泡幻三</h1>
+    <img src="pictures/cover.jepg" alt="封面" width="600">
 </div>
 
 ![cover](pictures/cover.jpeg "封面")
