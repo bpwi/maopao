@@ -1,7 +1,7 @@
-<div align="center">
-    <h1>冒泡幻三</h1>
-    <img src="pictures/cover.jepg" alt="封面">
-</div>
+
+<p align="center">
+<img src="pictures/cover.jepg" alt="cover">
+</p>
 
 ![cover](pictures/cover.jpeg "封面")
 
