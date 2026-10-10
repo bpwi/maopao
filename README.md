@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="pictures/cover.jepg" alt="cover">
+<img src="pictures/cover.jepg" alt="cover"/>
 </p>
 
 ![cover](pictures/cover.jpeg "封面")
