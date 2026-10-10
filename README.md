@@ -2,6 +2,7 @@
     <h1>冒泡幻三</h1>
 </div>
 ![cover](./pictures/cover.jpeg "封面")
+
 > [!IMPORTANT]
 > 
 > 1. 旨在提供一个便捷的冒泡社区版本管理和安装仓库
