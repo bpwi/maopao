@@ -18,9 +18,7 @@
 > [!TIP]
 > 1. 浏览器打开本界面
 > <img align="center" src="pictures/tip1.png" alt="tip1"/>
->
->
-> 
+
 > 2. 找到release关键字点击
 > <img align="center" src="pictures/tip2.png" alt="tip2"/>
 >
