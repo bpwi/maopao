@@ -16,15 +16,15 @@
 ## 具体安装方法
 
 > [!TIP]
-> 1. 浏览器打开本界面
+> _1. 浏览器打开本界面_
 > <img align="center" src="pictures/tip1.png" alt="tip1"/>
 
-> 2. 找到release关键字点击
+> _2. 找到release关键字点击_
 > <img align="center" src="pictures/tip2.png" alt="tip2"/>
->
-> 3. 查看各个版本，并选择心仪的安装包文件下载即可
+
+> _3. 查看各个版本，并选择心仪的安装包文件下载即可_
 > <img align="center" src="pictures/tip3.png" alt="tip3"/>
->
-> 4. 另外附上官方直链下载
+
+> _4. 另外附上官方直链下载_
 > [冒泡社区官方](http://dln.51mopo.com/apkf/apk4/M01/00/01/CsADpmeFw9eAait5AT79-8uwwvY637.apk "点击下载")
 
