@@ -1,9 +1,7 @@
-
 <p align="center">
 <img src="pictures/logo.svg" alt="cover"/>
 </p>
 
-![cover](pictures/cover.jpeg "封面")
 
 > [!IMPORTANT]
 > 
