@@ -1,7 +1,8 @@
 <div align="center">
     <h1>冒泡幻三</h1>
 </div>
-![cover](./pictures/cover.jpeg "封面")
+
+![cover](pictures/cover.jpeg "封面")
 
 > [!IMPORTANT]
 > 
