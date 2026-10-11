@@ -1,5 +1,5 @@
 <p align="center">
-<img src="pictures/maop.jpeg" alt="cover"/>
+<img src="pictures/mop.jpeg" alt="cover"/>
 </p>
 
 
